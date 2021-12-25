@@ -24,7 +24,7 @@ function FooterSection({ isInvitation }) {
             </div>
             <div className="row" css={styFlex}>
               <div className="col-md-5">
-                  <a className="btn btn-default btn-block" target="_BLANK" href="https://forms.gle/Pj9BHhwomdk2sZDz8" rel="noreferrer"><i className="icon-link"></i> Kirim Ucapan Selamat &amp; Doa</a>
+                  <a className="btn btn-default btn-block" target="_BLANK" href="https://forms.gle/GmYiT6jwYKUPMxoGA" rel="noreferrer"><i className="icon-link"></i> Kirim Ucapan Selamat &amp; Doa</a>
               </div>
             </div>
           </div>

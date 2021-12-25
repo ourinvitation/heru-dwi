@@ -4,14 +4,14 @@ import Background from '@assets/images/slide-6.jpg';
 export const styWrapper = css`
   background-image: url(${Background});
   background-size: cover;
-  background-position: center;
+  background-position: bototm center;
   width: 100%;
-  min-height: 70vh;
+  min-height: 75vh;
   color: #fff !important;
 
   .bismillah {
     color: #fff !important;
-    font-size: 16px !important;
+    font-size: 36px !important;
     font-family: sans-serif;
   }
 

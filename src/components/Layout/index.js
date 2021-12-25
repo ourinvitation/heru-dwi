@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import { Helmet } from 'react-helmet';
 import { node } from 'prop-types';
 
-import Favicon from '@assets/images/agung-hana.png';
+import Favicon from '@assets/images/heru-dwi.png';
 import '@assets/css/icomoon.css';
 import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';

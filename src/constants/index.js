@@ -1,7 +1,7 @@
 /**
  * Link
  */
-export const GOOGLE_CALENDAR_LINK = `https://calendar.google.com/event?action=TEMPLATE&tmeid=NnQ0MWxpN2MxNXM1aGw4dWR2Zm85bmU0NW8gYWd1bmd0cmlsYWtzb25vc3BAbQ&tmsrc=agungtrilaksonosp%40gmail.com`;
+export const GOOGLE_CALENDAR_LINK = ``;
 export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/D1Z8ugbsdt3yfT4J7`;
 
 /**

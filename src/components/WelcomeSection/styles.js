@@ -127,7 +127,7 @@ export const styScrollWrapper = css`
 export const styBackground = css`
   background-size: cover;
   background-image: url(${Background});
-  background-position: center;
+  background-position: bottom center;
   width: 100%;
   height: 100%;
   display: flex;

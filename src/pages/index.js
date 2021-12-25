@@ -15,7 +15,7 @@ import CovidSection from '@components/Covid19';
 import FloatingMusic from '@components/FloatingMusic/Loadable';
 
 function Home({ location }) {
-  const guestName = atob(decodeURIComponent(getQueryValue(location, 'to')) || '');
+  const guestName = Buffer.from(decodeURIComponent(getQueryValue(location, 'to')) || '', 'base64').toString();
   const isInvitation = getQueryValue(location, 'type') === 'invitation';
   const isAnonymGuest = guestName === '' && !isInvitation;
   const codeLink = getQueryValue(location, 'code') || '';
