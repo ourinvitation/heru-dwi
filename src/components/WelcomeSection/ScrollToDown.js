@@ -4,7 +4,7 @@ import { styScrollWrapper } from './styles';
 import { bool, func } from 'prop-types';
 
 function ClickToSeeDetail({ guestName, loading, onClick }) {
-  if (guestName) {
+  // if (guestName) {
     return (
       <div css={styScrollWrapper} onClick={onClick}>
         <section id="scroll" className="scroll__icon">
@@ -15,9 +15,9 @@ function ClickToSeeDetail({ guestName, loading, onClick }) {
         </section>
       </div>
     );
-  } else {
-    return ('');
-  }
+  // } else {
+  //   return ('');
+  // }
 }
 
 ClickToSeeDetail.propTypes = {

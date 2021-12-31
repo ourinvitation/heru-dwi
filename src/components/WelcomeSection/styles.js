@@ -127,7 +127,7 @@ export const styScrollWrapper = css`
 export const styBackground = css`
   background-size: cover;
   background-image: url(${Background});
-  background-position: bottom center;
+  background-position: center;
   width: 100%;
   height: 100%;
   display: flex;
@@ -168,7 +168,7 @@ export const styWrapper = css`
     margin-bottom: 0px;
     font-size: 100px;
     line-height: 2;
-    font-family: 'twinkle-dream';
+    font-family: 'Cookie', cursive;
     color: #fff;
   }
 

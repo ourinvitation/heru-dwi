@@ -12,7 +12,7 @@ function FooterSection({ isInvitation }) {
               <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
                 <h2 className="main-font">Terima Kasih</h2>
                 <p>
-                  Berdasarkan kondisi saat ini, tanpa mengurangi rasa hormat, <br />diharapkan tetap bisa menjalin silaturahmi
+                  Berdasarkan kondisi saat ini, tanpa mengurangi rasa hormat, <br />kami belum bisa mengundang secara langsung.<br />Diharapkan tetap bisa menjalin silaturahmi
                   melalui media online, <br />bukan dengan kontak fisik secara langsung.<br /> 
                   Mohon pengertiannya.
                 </p>
